@@ -1,0 +1,100 @@
+1-The Shawshank Redemption-1994-9.3-R-142-80-English-USA-25000000-58500000
+2-The Godfather-1972-9.2-R-175-100-English-USA-6000000-245066411 
+3-The Godfather: Part II-1974-9.0-R-202-85-English-USA-13000000-57300000
+4-The Dark Knight-2008-9.0-PG:13-152-82-English-USA-185000000-1004558444
+5-12 Angry Men-1957-8.9-Approved-96-96-English-USA-350000-1000000
+6-Schindler's List-1993-8.9-R-195-93-English-USA-22000000-321306305
+7-Pulp Fiction-1994-8.9-R-178-94-English-USA-8000000-213928762
+8-The Lord of the Rings: The Return of the King-2003-8.9-PG:13-263-94-English-USA-94000000-1119929521
+9-The Good the Bad and the Ugly-1966-8.8-Approved-186-90-Italian-Italy-1200000-25100000
+10-Fight Club-1999-8.8-R-151-66-English-USA-63000000-100853753
+11-The Lord of the Rings: The Fellowship of the Ring-2001-8.8-PG:13-228-92-English-USA-93000000-871530324
+12-Forrest Gump-1994-8.7-PG:13-142-82-English-USA-55000000-677387716
+13-Star Wars Episode V :The Empire Strikes Back-1980-8.7-PG-124-81-English-USA-18000000-538375067
+14-Inception-2010-8.7-PG:13-148-74-English-USA-160000000-825532764
+15-The Lord of the Rings: The Two Towers-2002-8.7-PG:13-235-88-English-USA-94000000-926047111
+16-One Flew Over the Cuckoo's Nest-1975-8.7-R-133-80-English-USA-4400000-112000000
+17-Goodfellas-1990-8.7-R-146-89-English-USA-25000000-46836394
+18-The Matrix-1999-8.7-R-136-73-English-USA-63000000-203600000
+19-Seven Samurai-1954-8.6-Unrated-207-98-Japanese-Japan-125000000-268000000
+20-Star Wars: Episode IV  A New Hope-1977-8.6-PG-121-92-English-USA-11000000-775398007
+21-City of God-2002-8.6-R-130-79-Portuguese-Brazil-3300000-18062482
+22-Se7en-1995-8.6-R-127-65-English-USA-33000000-327311859
+23-The Silence of the Lambs-1991-8.6-R-118-84-English-USA-19000000-272742922
+24-It's a Wonderful Life-1946-8.6-PG-130-89-English-USA-3180000-7270000
+25-Life Is Beautiful-1997-8.6-PG:13-116-59-Italian-Italy-20000000-229163264
+26-The Usual Suspects-1995-8.6-R-106-77-English-USA-6000000-34449356
+27-Léon: The Professional-1994-8.5-R-110-64-English-France-1925100-19251002
+28-Saving Private Ryan-1998-8.5-R-169-90-English-USA-70000000-481840909
+29-Spirited Away-2001-8.5-PG-125-94-Japanese-Japan-19000000-274925095
+30-Once Upon a Time in the West-1968-8.5-PG:13-165-80-Italian-Italy-5000000-5321508
+31-American History X-1998-8.5-R-119-62-English-USA-7500000-23875127
+32-Interstellar-2014-8.5-PG:13-169-74-English-USA-165000000-675120017
+33-Psycho-1960-8.5-Approved-109-97-English-USA-806947-50000000
+34-Casablanca-1942-8.5-PG-102-100-English-USA-950000-1661267
+35-City Lights-1931-8.5-G-87-80-English-USA-1500000-3270000
+36-The Green Mile-1999-8.5-R-189-61-English-USA-60000000-286801374
+37-The Intouchables-2011-8.5-R-112-57-French-France-10800000-426588510
+38-Modern Times-1936-8.5-G-87-96-English-USA-1500000-4353000
+39-Raiders of the Lost Ark-1981-8.5-PG-115-85-English-USA-18000000-389925971
+40-Rear Window-1954-8.5-Approved-112-80-English-USA-1000000-30000000
+41-The Pianist-2002-8.5-R-150-85-France-English-35000000-120072577
+42-The Departed-2006-8.5-R-151-85-English-USA-90000000-289847354 
+43-Terminator 2: Judgment Day-1991-8.5-R-153-75-English-USA-102000000-519843345
+44-Back to the Future-1985-8.5-PG-116-86-English-USA-19000000-350600000
+45-Whiplash-2014-8.5-R-107-88-English-USA-3300000-48982041
+46-Gladiator-2000-8.5-R-171-67-English-USA-103000000-457640427
+47-Memento-2000-8.5-R-113-80-English-USA-9000000-39723096
+48-The Prestige-2006-8.5-PG:13-130-66-English-USA-40000000-109676311
+49-The Lion King-1994-8.5-G-88-83-English-USA-45000000-987483777		
+50-Apocalypse Now-1979-8.5-R-153-90-English-USA-31500000-78784010		
+51-Alien-1979-8.4-R-117-83-English-USA-11000000-203630630		
+52-The Great Dictator-1940-8.4-Approved-125-80-English-USA-2000000-11000000		
+53-Sunset Boulevard-1950-8.4-Passed-110-80-English-USA-1752000-5000000		
+54-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb-1964-8.4-PG-95-96-English-USA-1800000-9440272		
+55-Cinema Paradiso-1988-8.4-R-155-80-Italian-Italy-5000000-12397210		
+56-The Lives of Others-2006-8.4-R-137-89-German-Germany-2000000-77356819		
+57-Grave of the Fireflies-1988-8.4-Unrated-89-80-Japanese-Japan-3700000-33700000		
+58-Paths of Glory-1957-8.4-Approved-88-80-English-USA-935000-3092959		
+59-Django Unchained-2012-8.4-R-165-81-English-USA-100000000-425368238		
+60-The Shining-1980-8.4-R-146-61-English-UK-19000000-44017374 		
+61-WALL·E-2008-8.4-G-98-95-English-USA-180000000-534767889 		
+62-American Beauty-1999-8.4-R-122-86-English-USA-15000000-356296601		
+63-The Dark Knight Rises-2012-8.4-PG:13-164-78-English-UK-250000000-1084939099		
+64-Princess Mononoke-1997-8.4-PG:13-134-76-Japanese-Japan-19375308-159375308		
+65-Aliens-1986-8.4-R-154-87-English-USA-18500000-131060248		
+66-Oldboy-2003-8.4-R-120-74-Korean-South Korea-3000000-14980005		
+67-Once Upon a Time in America-1984-8.4-R-251-80-Italian-Italy-30000000-55321508		
+68-Witness for the Prosecution-1957-8.3-Approved-116-80-English-USA-3000000-9000000		
+69-Das Boot-1981-8.3-R-209-86-German-Germany-14000000-84970337		
+70-Citizen Kane-1941-8.3-Approved-119-100-English-USA-839727-1140769		
+71-Dangal-2016-8.7-Unrated-161-80-Hindi-India-10818332-310000000		
+72-Vertigo-1958-8.3-PG-128-85-English-USA-2479000-25000000		
+73-North by Northwest-1959-8.4-Approved-136-86-English-USA-3101000-22213000		
+74-Star Wars Episode VI: Return of the Jedi-1983-8.3-PG-131-53-English-USA-32500000-572705079		
+75-Reservoir Dogs-1992-8.3-R-99-78-English-USA-1200000-2832029		
+76-Braveheart-1995-8.3-R-255-68-English-USA-72000000-210409945		
+77-M-1931-8.3-Not Rated-110-84-German-Germany-72000000-210409945		
+78-Requiem for a Dream-2000-8.3-R-102-68-English-USA-4500000-7364000		
+79-Amélie-2001-8.3-R-122-69-French-France-12989730-173921954		
+80-Taare Zameen Par-2007-8.3-PG-165-86-Hindi-India-1858549-21897373	 		
+81-A Clockwork Orange-1971-8.3-	R-136-78-English-UK-2200000-26589355	
+82-Lawrence of Arabia-1962-8.3-PG-222-100-English-UK-15000000-70000000		
+83-Taxi Driver-1976-8.3-R-113-93-English-USA-1300000-28262574 		
+84-Double Indemnity-1944-8.3-Passed-107-80-English-USA-927262-5720000		
+85-Eternal Sunshine of the Spotless Mind-2004-8.3-R-108-89-English-USA-20000000-73169222		
+86-Amadeus-1984-8.3-R-180-93-English-USA-18000000-51564280		
+87-To Kill a Mockingbird-1962-8.3-Not Rated-129-80-English-USA-2000000-13129846		
+88-Toy Story 3-2010-8.3-G-103-92-English-USA-200000000-1063171911		
+89-Full Metal Jacket-1987-8.3-R-116-76-English-UK-30000000-46357676		
+90-2001: A Space Odyssey-1968-8.3-G-149-86-English-USA-12000000-190700000		
+91-Singin' in the Rain-1952-8.3-Approved-103-80-English-USA-2540800-13979088		
+92-The Sting-1973-8.3-PG-129-80-English-USA-5500000-156000000		
+93-Your Name(Kimi no na wa)-2016-8.3-PG-112-79-Japanese-Japan-35452671-354526712		
+94-Toy Story-1995-8.3-G-81-95-English-USA-30000000-361958736		
+95-Bicycle Thieves(Ladri di biciclette)-1948-8.3-Not Rated-89-78-Italian-Italy-133000-332930		
+96-The Kid-1921-8.3-Not Rated-68-78-English-USA-250000-5450000		
+97-Inglourious Basterds-2009-8.3-R-153-69-English-USA-75000000-321455689		
+98-3 Idiots-2009-8.3-PG:13-170-67-Hindi-India-93000000-330000000		
+99-Snatch-2000-8.3-R-104-55-English-UK-7737000-83557872	 		
+100-Monty Python and the Holy Grail-1975-8.3-PG-91-93-English-UK-155431-1554312
